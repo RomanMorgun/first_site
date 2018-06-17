@@ -1,0 +1,30 @@
+html{
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/*
+
+font-family: 'Merriweather', serif;
+
+
+
+*/
+
+
+.header {
+    background: #343c4e;
+    background-image: url("../img/bg/bg-header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
